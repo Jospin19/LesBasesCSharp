@@ -1,0 +1,13 @@
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\GestionDuParc\bin\Debug\GestionDuParc.exe.config
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\GestionDuParc\bin\Debug\GestionDuParc.exe
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\GestionDuParc\bin\Debug\GestionDuParc.pdb
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\GestionDuParc\obj\Debug\GestionDuParc.csproj.CoreCompileInputs.cache
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\GestionDuParc\obj\Debug\GestionDuParc.exe
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\GestionDuParc\obj\Debug\GestionDuParc.pdb
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\GestionDuParc\obj\Debug\GestionDuParc.csprojAssemblyReference.cache
+D:\Ecole\Univers_tuto\repos\ExercicesSurLesBases\GestionDuParc\bin\Debug\GestionDuParc.exe.config
+D:\Ecole\Univers_tuto\repos\ExercicesSurLesBases\GestionDuParc\bin\Debug\GestionDuParc.exe
+D:\Ecole\Univers_tuto\repos\ExercicesSurLesBases\GestionDuParc\bin\Debug\GestionDuParc.pdb
+D:\Ecole\Univers_tuto\repos\ExercicesSurLesBases\GestionDuParc\obj\Debug\GestionDuParc.csprojAssemblyReference.cache
+D:\Ecole\Univers_tuto\repos\ExercicesSurLesBases\GestionDuParc\obj\Debug\GestionDuParc.exe
+D:\Ecole\Univers_tuto\repos\ExercicesSurLesBases\GestionDuParc\obj\Debug\GestionDuParc.pdb

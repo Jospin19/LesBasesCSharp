@@ -1,0 +1,20 @@
+C:\Users\nssoe\source\repos\ExercicesSurLesBases\JeuDuPlusOuMoin\bin\Debug\JeuDuPlusOuMoin.exe.config
+C:\Users\nssoe\source\repos\ExercicesSurLesBases\JeuDuPlusOuMoin\bin\Debug\JeuDuPlusOuMoin.exe
+C:\Users\nssoe\source\repos\ExercicesSurLesBases\JeuDuPlusOuMoin\bin\Debug\JeuDuPlusOuMoin.pdb
+C:\Users\nssoe\source\repos\ExercicesSurLesBases\JeuDuPlusOuMoin\obj\Debug\JeuDuPlusOuMoin.csprojResolveAssemblyReference.cache
+C:\Users\nssoe\source\repos\ExercicesSurLesBases\JeuDuPlusOuMoin\obj\Debug\JeuDuPlusOuMoin.csproj.CoreCompileInputs.cache
+C:\Users\nssoe\source\repos\ExercicesSurLesBases\JeuDuPlusOuMoin\obj\Debug\JeuDuPlusOuMoin.exe
+C:\Users\nssoe\source\repos\ExercicesSurLesBases\JeuDuPlusOuMoin\obj\Debug\JeuDuPlusOuMoin.pdb
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\JeuDuPlusOuMoin\bin\Debug\JeuDuPlusOuMoin.exe.config
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\JeuDuPlusOuMoin\bin\Debug\JeuDuPlusOuMoin.exe
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\JeuDuPlusOuMoin\bin\Debug\JeuDuPlusOuMoin.pdb
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\JeuDuPlusOuMoin\obj\Debug\JeuDuPlusOuMoin.csprojAssemblyReference.cache
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\JeuDuPlusOuMoin\obj\Debug\JeuDuPlusOuMoin.csproj.CoreCompileInputs.cache
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\JeuDuPlusOuMoin\obj\Debug\JeuDuPlusOuMoin.exe
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\JeuDuPlusOuMoin\obj\Debug\JeuDuPlusOuMoin.pdb
+D:\Ecole\Univers_tuto\repos\ExercicesSurLesBases\JeuDuPlusOuMoin\bin\Debug\JeuDuPlusOuMoin.exe.config
+D:\Ecole\Univers_tuto\repos\ExercicesSurLesBases\JeuDuPlusOuMoin\bin\Debug\JeuDuPlusOuMoin.exe
+D:\Ecole\Univers_tuto\repos\ExercicesSurLesBases\JeuDuPlusOuMoin\bin\Debug\JeuDuPlusOuMoin.pdb
+D:\Ecole\Univers_tuto\repos\ExercicesSurLesBases\JeuDuPlusOuMoin\obj\Debug\JeuDuPlusOuMoin.csprojAssemblyReference.cache
+D:\Ecole\Univers_tuto\repos\ExercicesSurLesBases\JeuDuPlusOuMoin\obj\Debug\JeuDuPlusOuMoin.exe
+D:\Ecole\Univers_tuto\repos\ExercicesSurLesBases\JeuDuPlusOuMoin\obj\Debug\JeuDuPlusOuMoin.pdb

@@ -1,0 +1,11 @@
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\Revisions\bin\Debug\netcoreapp2.2\Revisions.deps.json
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\Revisions\bin\Debug\netcoreapp2.2\Revisions.runtimeconfig.json
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\Revisions\bin\Debug\netcoreapp2.2\Revisions.runtimeconfig.dev.json
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\Revisions\bin\Debug\netcoreapp2.2\Revisions.dll
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\Revisions\bin\Debug\netcoreapp2.2\Revisions.pdb
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\Revisions\obj\Debug\netcoreapp2.2\Revisions.csprojAssemblyReference.cache
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\Revisions\obj\Debug\netcoreapp2.2\Revisions.csproj.CoreCompileInputs.cache
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\Revisions\obj\Debug\netcoreapp2.2\Revisions.AssemblyInfoInputs.cache
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\Revisions\obj\Debug\netcoreapp2.2\Revisions.AssemblyInfo.cs
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\Revisions\obj\Debug\netcoreapp2.2\Revisions.dll
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\Revisions\obj\Debug\netcoreapp2.2\Revisions.pdb

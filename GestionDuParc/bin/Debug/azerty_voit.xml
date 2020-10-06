@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfVoiture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Voiture>
+    <ImmatriculationVeh>a</ImmatriculationVeh>
+    <MarqueVeh>Mercedes</MarqueVeh>
+    <CouleurVeh>rouge</CouleurVeh>
+    <NombrePorte>5</NombrePorte>
+  </Voiture>
+  <Voiture>
+    <ImmatriculationVeh>b</ImmatriculationVeh>
+    <MarqueVeh>Cougar</MarqueVeh>
+    <CouleurVeh>jaune</CouleurVeh>
+    <NombrePorte>9</NombrePorte>
+  </Voiture>
+</ArrayOfVoiture>

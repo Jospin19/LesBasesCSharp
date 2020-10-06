@@ -1,0 +1,14 @@
+C:\Users\nssoe\source\repos\ExercicesSurLesBases\TirageAuSort\bin\Debug\TirageAuSort.exe.config
+C:\Users\nssoe\source\repos\ExercicesSurLesBases\TirageAuSort\bin\Debug\TirageAuSort.exe
+C:\Users\nssoe\source\repos\ExercicesSurLesBases\TirageAuSort\bin\Debug\TirageAuSort.pdb
+C:\Users\nssoe\source\repos\ExercicesSurLesBases\TirageAuSort\obj\Debug\TirageAuSort.csprojResolveAssemblyReference.cache
+C:\Users\nssoe\source\repos\ExercicesSurLesBases\TirageAuSort\obj\Debug\TirageAuSort.csproj.CoreCompileInputs.cache
+C:\Users\nssoe\source\repos\ExercicesSurLesBases\TirageAuSort\obj\Debug\TirageAuSort.exe
+C:\Users\nssoe\source\repos\ExercicesSurLesBases\TirageAuSort\obj\Debug\TirageAuSort.pdb
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\TirageAuSort\bin\Debug\TirageAuSort.exe.config
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\TirageAuSort\bin\Debug\TirageAuSort.exe
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\TirageAuSort\bin\Debug\TirageAuSort.pdb
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\TirageAuSort\obj\Debug\TirageAuSort.csprojAssemblyReference.cache
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\TirageAuSort\obj\Debug\TirageAuSort.csproj.CoreCompileInputs.cache
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\TirageAuSort\obj\Debug\TirageAuSort.exe
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\TirageAuSort\obj\Debug\TirageAuSort.pdb

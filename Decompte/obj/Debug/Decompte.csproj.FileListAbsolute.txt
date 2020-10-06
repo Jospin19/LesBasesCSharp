@@ -1,0 +1,7 @@
+C:\Users\nssoe\source\repos\ExercicesSurLesBases\Decompte\bin\Debug\Decompte.exe.config
+C:\Users\nssoe\source\repos\ExercicesSurLesBases\Decompte\bin\Debug\Decompte.exe
+C:\Users\nssoe\source\repos\ExercicesSurLesBases\Decompte\bin\Debug\Decompte.pdb
+C:\Users\nssoe\source\repos\ExercicesSurLesBases\Decompte\obj\Debug\Decompte.csprojResolveAssemblyReference.cache
+C:\Users\nssoe\source\repos\ExercicesSurLesBases\Decompte\obj\Debug\Decompte.csproj.CoreCompileInputs.cache
+C:\Users\nssoe\source\repos\ExercicesSurLesBases\Decompte\obj\Debug\Decompte.exe
+C:\Users\nssoe\source\repos\ExercicesSurLesBases\Decompte\obj\Debug\Decompte.pdb

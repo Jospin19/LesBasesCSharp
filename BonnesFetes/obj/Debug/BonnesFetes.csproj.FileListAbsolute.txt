@@ -1,0 +1,7 @@
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\BonnesFetes\bin\Debug\BonnesFetes.exe.config
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\BonnesFetes\bin\Debug\BonnesFetes.exe
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\BonnesFetes\bin\Debug\BonnesFetes.pdb
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\BonnesFetes\obj\Debug\BonnesFetes.csproj.CoreCompileInputs.cache
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\BonnesFetes\obj\Debug\BonnesFetes.exe
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\BonnesFetes\obj\Debug\BonnesFetes.pdb
+D:\Ecole\Univers tuto\repos\ExercicesSurLesBases\BonnesFetes\obj\Debug\BonnesFetes.csprojResolveAssemblyReference.cache

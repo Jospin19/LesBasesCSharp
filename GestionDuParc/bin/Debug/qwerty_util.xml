@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfUtilitaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Utilitaire>
+    <ImmatriculationVeh>c</ImmatriculationVeh>
+    <MarqueVeh>Camille</MarqueVeh>
+    <CouleurVeh>gris</CouleurVeh>
+    <VolumeUtile>58</VolumeUtile>
+  </Utilitaire>
+  <Utilitaire>
+    <ImmatriculationVeh>d</ImmatriculationVeh>
+    <MarqueVeh>BMW</MarqueVeh>
+    <CouleurVeh>noir</CouleurVeh>
+    <VolumeUtile>85</VolumeUtile>
+  </Utilitaire>
+</ArrayOfUtilitaire>
